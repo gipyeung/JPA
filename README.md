@@ -8,9 +8,7 @@ size (default: 10): 페이지 크기
 
 2. GET /daily/{id}
 설명: 특정 일정을 조회합니다.
-
-경로 변수:
-
+경로 변수
 id: 조회할 일정의 ID
 
 3. PUT /daily/{id}
